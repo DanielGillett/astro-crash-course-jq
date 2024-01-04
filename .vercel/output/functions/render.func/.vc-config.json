@@ -1,0 +1,6 @@
+{
+	"runtime": "nodejs20.x",
+	"handler": "root/daniel/code/astro/tutorials/freeCodeCamp/fcc-astro-crash-course/dist/entry.mjs",
+	"launcherType": "Nodejs",
+	"supportsResponseStreaming": true
+}
